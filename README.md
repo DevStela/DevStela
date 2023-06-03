@@ -10,7 +10,3 @@ stelamariarb@gmail.com
 
 
 ![Stela Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevStela&show_icons=true&theme=dracula)
-
-
-
-https://picrew.me/share?cd=KqNSqnljko
